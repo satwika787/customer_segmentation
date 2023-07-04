@@ -13,10 +13,10 @@ This project demonstrates customer segmentation based on the Mall Customers data
 
 ### Usage 
 
-Load the dataset
-Perform K-means clustering
-Visualize the Elbow Point Graph
-Apply K-means clustering with the chosen number of clusters
+Load the dataset, 
+Perform K-means clustering, 
+Visualize the Elbow Point Graph, 
+Apply K-means clustering with the chosen number of clusters, 
 Visualize the clusters
 
 
